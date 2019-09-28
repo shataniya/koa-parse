@@ -1,0 +1,24 @@
+{
+  "name": "koa-parse-plugin",
+  "version": "1.0.1",
+  "description": "This is a plugin for getting post request data in koa",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shataniya/koa-parse.git"
+  },
+  "keywords": [
+    "koa",
+    "koa-parse",
+    "koa-parse-plugin"
+  ],
+  "author": "sataniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shataniya/koa-parse/issues"
+  },
+  "homepage": "https://github.com/shataniya/koa-parse#readme"
+}
